@@ -1,0 +1,9 @@
+.idea
+.vscode
+node_modules
+nodejs
+dist
+*.zip
+
+.env
+.DS_Store
